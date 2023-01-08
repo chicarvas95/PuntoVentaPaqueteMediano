@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Debug\PuntoDeVenta.CapaAccesoDatos.pdb

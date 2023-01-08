@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\bin\Debug\PuntoDeVentaNoel.BE.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\bin\Debug\PuntoDeVentaNoel.BE.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\obj\Debug\PuntoDeVentaNoel.BE.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\obj\Debug\PuntoDeVentaNoel.BE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\obj\Debug\PuntoDeVentaNoel.BE.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVentaNoel.BE\obj\Debug\PuntoDeVentaNoel.BE.pdb

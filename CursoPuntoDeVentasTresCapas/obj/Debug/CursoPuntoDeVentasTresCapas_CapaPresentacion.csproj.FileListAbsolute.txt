@@ -1,0 +1,111 @@
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.exe.config
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.exe
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\USB-Barcode-Scanner.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaNegocio.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.FrmVentas.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.FrmAgregarProducto.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.Properties.Resources.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.CopyComplete
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.exe
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.exe.config
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.exe
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\CursoPuntoDeVentasTresCapas.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\PuntoDeVenta.CapaNegocio.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.FrmVentas.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.FrmAgregarProducto.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.Properties.Resources.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas_CapaPresentacion.csproj.CopyComplete
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.exe
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\CursoPuntoDeVentasTresCapas.FrmReporteVentasDiarias.resources
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\CursoPuntoDeVentasTresCapas\obj\Debug\RdlCompile.compiled

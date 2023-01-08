@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaNegocio.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.CopyComplete
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaNegocio.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\bin\Debug\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.csproj.CopyComplete
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaNegocio\obj\Debug\PuntoDeVenta.CapaNegocio.pdb

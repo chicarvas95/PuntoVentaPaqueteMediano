@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Release\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\bin\Release\PuntoDeVenta.CapaAccesoDatos.pdb
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Release\PuntoDeVenta.CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Release\PuntoDeVenta.CapaAccesoDatos.dll
+C:\Users\Admin\Desktop\CURSOS\SISTEMA PUNTO DE VENTAS 3 CAPAS\PAQUETE MEDIANO\CursoPuntoDeVentasTresCapas\PuntoDeVenta.CapaAccesoDatos\obj\Release\PuntoDeVenta.CapaAccesoDatos.pdb
